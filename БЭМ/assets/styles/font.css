@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "Intro";
+    src: url(".\assets\fonts\Intro.woff2") format("woff2"),
+      url(".\assets\fonts\Intro.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+  }
+  .font__intro_logo {
+    font-family: "Intro", Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+    text-transform: uppercase;
+    font-weight: 900;
+  }
+  .font__intro_btn {
+    font-family: "Intro", Arial, Helvetica, sans-serif;
+    font-size: 0.85vw;
+    text-transform: uppercase;
+    font-weight: 800;
+  }
+  .font__intro_lg {
+    font-family: "Intro", Arial, Helvetica, sans-serif;
+    font-size: 2.8vw;
+    text-transform: uppercase;
+    font-weight: 800;
+  }
+  .font__intro-md {
+    font-family: "Intro", Arial, Helvetica, sans-serif;
+    font-size: 1.5vw;
+    text-transform: uppercase;
+    font-weight: 800;
+  }
+  .font__intro-md_white {
+    font-family: "Intro", Arial, Helvetica, sans-serif;
+    font-size: 1.5vw;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 800;
+  }
+  .font__roboto {
+    font-family: "Roboto Slab", serif;
+    font-size: 1.05vw;
+  }
